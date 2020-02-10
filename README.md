@@ -2,7 +2,7 @@
 <html>
   <style>
     body { 
-    background-color:charcoal;
+    backgroundcolor:charcoal;
     }
   </style>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
