@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
   <style>
+    <div>
     .pale chestnut { 
     backgroundcolor:pale-chestnut;
      <!-- color:charcoal; -->
     }
+    </div>
   </style>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
   <style>
