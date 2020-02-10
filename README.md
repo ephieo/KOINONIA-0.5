@@ -3,7 +3,7 @@
   <style>
     .pale chestnut { 
     backgroundcolor:pale-chestnut;
-      color:charcoal;
+     <!-- color:charcoal; -->
     }
   </style>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
