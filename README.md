@@ -25,7 +25,7 @@
       border-style:solid; 
     }
   </style>
-<body class="grey-background">
+<div class="grey-background">
    <h1 style="color:grey-green"> Koinonia </h1>
     <h1> welcome to phiephie's world  </h1>
     <p> A site to practice what i've learnt through <a href="https://www.freecodecamp.org/"> Freecodecamp </a> through the multiple tasks I work on. </p>
@@ -35,4 +35,4 @@
   <input type="text" placeholder="sehunniee">
   <button type="submit"> Submit </button>
     </form>
-</body>
+</div>
