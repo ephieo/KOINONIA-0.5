@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <style>
-    .grey {
-    background-color:grey;
-    }
-    
-  </style>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
   <style>
+      .grey {
+    background-color:grey;
+    }
     h1{
       font-family:monospace;
       color:charcoal; 
