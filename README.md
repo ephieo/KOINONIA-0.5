@@ -2,7 +2,7 @@
 <html>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
   <style>
-      .grey {
+      .grey background {
     background-color:grey;
     }
     h1{
