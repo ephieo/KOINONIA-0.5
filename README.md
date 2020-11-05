@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
-  <style>
-      .grey background {
-    background-color:grey;
-    }
-    h1{
-      font-family:monospace;
-      color:charcoal; 
-    }
-    p{
-      font-family:INCONSOLATA,GENERIC_NAME;
-      color:charcoal; 
-    }
-    .smaller-image {
-      width:300px;
-    }
-    .thin-charcoal-border { 
-      border-color:Charcoal;
-      border-width:3px;
-      border-style:solid; 
-    }
-  </style>
+
 <div class="grey-background">
    <h1 style="color:grey-green"> Koinonia </h1>
     <h1> welcome to phiephie's world  </h1>
